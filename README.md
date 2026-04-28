@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Sobre mí</h2>
 
 <p align="center">
-👋 Hola, soy <strong>Kayiu</strong> más conocida como <strong>Kayiu</strong>, <br>
+👋 Hola, soy <strong>Camila</strong> más conocida como <strong>Cami</strong>, <br>
 tengo <strong>18 años</strong> y soy de <strong> ?? </strong>
 </p>
 
